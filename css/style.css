@@ -1,0 +1,6 @@
+table.teacher-list{
+	margin-top: 20px;
+}
+table.teacher-list tr{
+	cursor: pointer;
+}
